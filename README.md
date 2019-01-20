@@ -1,0 +1,1 @@
+# GumRoad-Data-Modelling-Design-Challenge
